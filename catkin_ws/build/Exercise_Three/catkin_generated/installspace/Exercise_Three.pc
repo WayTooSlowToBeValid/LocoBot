@@ -1,0 +1,8 @@
+prefix=/home/fabio/Desktop/LoCoBot/catkin_ws/install
+
+Name: Exercise_Three
+Description: Description of Exercise_Three
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+Exercise_One:Exercise_Three:my_package
+-DCATKIN_DEVEL_PREFIX=/home/fabio/Desktop/LoCoBot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fabio/Desktop/LoCoBot/catkin_ws/install -G Unix Makefiles
